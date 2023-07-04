@@ -15,7 +15,7 @@ N/A
 
 The html and css files in this repository can be used to show a cleaner code without changing the presentation or functionality of the webpage.
 
-![html-refractor-example](assets\images\html-refractor-horiseon.png)
+![html-refractor-example](./assets/images/html-refractor-horiseon.png)
 
 
 
