@@ -15,7 +15,8 @@ N/A
 
 The html and css files in this repository can be used to show a cleaner code without changing the presentation or functionality of the webpage.
 
-![cleaner-code-example](C:\Users\Daniela\bootcamp\Horiseon-refractor-c1\assets\images\html-refractor-horiseon.png)
+![cleaner-code-example](C:\Users\Daniela\bootcamp\Horiseon-refractor-c1\assets\images\html-refractor-horiseon.PNG)
+
 
 
 ## Credits
